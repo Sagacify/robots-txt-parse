@@ -1,6 +1,6 @@
 {
   "name": "robots-txt-parse",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Streaming parser for robots.txt files",
   "main": "lib/parse.js",
   "scripts": {
@@ -14,7 +14,6 @@
     "mocha": "^1.18.2"
   },
   "dependencies": {
-    "bluebird": "^2.3.5",
     "split": "^0.3.0",
     "stream-combiner": "^0.2.1",
     "through": "^2.3.4"
